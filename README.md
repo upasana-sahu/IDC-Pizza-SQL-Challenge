@@ -58,5 +58,4 @@ A huge thanks to **Indian Data Club** and **DPDzero** for this initiative!
 If you’d like to discuss SQL, data analysis, or projects:
 
 **LinkedIn:** https://www.linkedin.com/in/upasana-sahu 
-**Email:** upasna24.sahu@gmail.com
 
