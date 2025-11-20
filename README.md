@@ -22,7 +22,7 @@ The tasks covered:
 - 📄 **[Upasana_Sahu_IDC_Pizza_Submission.csv](Upasana_Sahu_IDC_Pizza_Submission.csv)**  
   Contains the final SQL queries submitted for the challenge.
 
-- 📜 **[pizza_challenge_queries.sql](sql/pizza_challenge_queries.sql)**  
+- 📜 **[pizza_challenge_queries.sql](pizza_challenge_queries.sql)**  
   Well-formatted SQL script including all queries, clean and readable for GitHub.
 
 
